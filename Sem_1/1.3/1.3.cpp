@@ -1,12 +1,13 @@
 #include <iostream>
 using namespace std;
-int main(){
-    float a;
-    cin >> a;
+main(){
+    float a, b; 
+    cin >> a; 
     if (a < 5){
-        cout << a * 3 << endl;}
-    else if (a > 7){
-        cout << a + 3 << endl;}
-    else{
-        cout << a / 10 << endl;}
+        b = a * 3;
+    }
+    
+    if (a > 7) {b = a + 3;}
+    else {b = a / 10;}
+    cout << b << endl; 
 }

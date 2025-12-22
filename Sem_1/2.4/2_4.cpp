@@ -10,15 +10,14 @@ int main(){
     }
     else{
         for (int i = 0; i < (N+1)/2; i++){
-        for (int j = 0; j < sp; j++){
-            cout << " "; 
-        }
-        sp --; 
-        for (int k = 0; k < st; k++){
-            cout << "*";
-        }
-        st += 2; 
-        cout << endl;
-        }
+            for (int j = 0; j < sp; j++){
+                cout << " ";}
+            sp --; 
+            for (int k = 0; k < st; k++){
+                cout << "*";
+            }
+            st += 2; 
+            cout << endl;
+            }
     }
 }

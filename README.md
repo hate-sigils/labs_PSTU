@@ -22,14 +22,22 @@ README.md
 | 2.13 | :green_circle: | :green_circle: | 
 | 2.14 | :green_circle: | :green_circle: | 
 | 2.15 | :green_circle: | :green_circle: |
-| 2.16 | :red_cirecle: | :red_circle: |
-| 2.17 | :red_cirecle: | :red_circle: |  
-| 2.18 | :red_cirecle: | :red_circle: |  
-| 2.19 | :red_cirecle: | :red_circle: |  
-| 2.20 | :red_cirecle: | :red_circle: |
-| 2.21 | :red_cirecle: | :red_circle: |  
-| 2.22 | :red_cirecle: | :red_circle: |  
-| 2.23 | :red_cirecle: | :red_circle: |      
+| 2.16 | :green_circle: | :green_circle: |
+| 2.17 | :green_circle: | :green_circle: |  
+| 2.18 | :green_circle: | :green_circle: |  
+| 2.19 | :green_circle: | :green_circle: |  
+| 2.20 | :green_circle: | :green_circle: |
+| 2.21 | :green_circle: | :green_circle: |  
+| 2.22 | :green_circle: | :green_circle: |  
+| 2.23 | :green_circle: | :green_circle: |  
+| ptr_1 | :green_circle: | :green_circle: | 
+| ptr_2 | :green_circle: | :green_circle: |
+| ptr_3 | :green_circle: | :green_circle: |  
+| ptr_4 | :green_circle: | :green_circle: |     
+| ptr_5 | :green_circle: | :green_circle: |      
+| eq_half | :green_circle: | :green_circle: |    
+| eq_newton | :green_circle: | :green_circle: |       
+| eq_iter | :green_circle: | :green_circle: |                   
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему
 |

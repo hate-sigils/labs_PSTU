@@ -1,14 +1,16 @@
 #include <iostream>
 using namespace std;
 main(){
-    int N, b; 
-    cin >> N; 
-    if (N == 0){
-        cout << "Нельзя посчитать сумму натуральных чисел при N <= 0" << endl;
+    int n; int sum = 0;
+    cin >> n;
+    if (n <= 0)
+    {
+        cout << "0 не натуральное число" <<endl;
     }
-    while (N!=0){
-        b += N;
-        N -= 1;
-    }
-    cout << b << endl; 
+    else{
+        for (int i = 1; i <= n; i++)
+        {
+            sum += i;
+        }
+    cout << sum << endl;}
 }
