@@ -43,6 +43,7 @@ README.md
 
 
 | п/п |  Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
+| --- | --- | --- | --- | --- |
 | 1 |  Лабораторная работа №4 | код: :green_circle: | [code](https://github.com/hate-sigils/labs_PSTU/blob/main/Sem_2/lab4_17var/lab_4_17var.cpp) |  |
 | 2 |  Лабораторная работа №5 | код: :green_circle: | [code](https://github.com/hate-sigils/labs_PSTU/blob/main/Sem_2/lab5_17var/lab5_17var.cpp) |  |
 | 3 |  Лабораторная работа №3 | код: :red_circle: |  |  |
