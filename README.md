@@ -47,9 +47,9 @@ README.md
 | 2 |  Лабораторная работа №5 | код: :green_circle: | [code](https://github.com/hate-sigils/labs_PSTU/blob/main/Sem_2/lab5_17var/lab5_17var.cpp) |  |
 | 3 |  Лабораторная работа №3 | код: :red_circle: |  |  |
 | 4 |  Ханойская башня | код: :green_circle: | [code](https://github.com/hate-sigils/labs_PSTU/blob/main/Sem_2/hanoi_tower/hanoi.cpp) |  |
-| 5 | 8 ферзей | код: :green_circle: | [code](https://github.com/hate-sigils/labs_PSTU/blob/main/Sem_2/8queens/8queens.cpp) | - |
-| 6 | сортировки | код: :green_circle: | [code](https://github.com/hate-sigils/labs_PSTU/tree/main/Sem_2/sorts) | - |
-| 7 | Лабораторная работа №10 | код: :green_circle: | [code](https://github.com/hate-sigils/labs_PSTU/blob/main/Sem_2/lab10_17var/lab10_17var.cpp) |  |
-| 8 | Лабораторная работа №7.1 | код: :red_circle: |  |  |
-| 9 | Лабораторная работа №7.2 | код: :red_circle: |  |  |
-| 10 | Лабораторная работа №6 | код: :red_circle: |  |  |
+| 5 |  8 ферзей | код: :green_circle: | [code](https://github.com/hate-sigils/labs_PSTU/blob/main/Sem_2/8queens/8queens.cpp) | - |
+| 6 |  сортировки | код: :green_circle: | [code](https://github.com/hate-sigils/labs_PSTU/tree/main/Sem_2/sorts) | - |
+| 7 |  Лабораторная работа №10 | код: :green_circle: | [code](https://github.com/hate-sigils/labs_PSTU/blob/main/Sem_2/lab10_17var/lab10_17var.cpp) |  |
+| 8 |  Лабораторная работа №7.1 | код: :red_circle: |  |  |
+| 9 |  Лабораторная работа №7.2 | код: :red_circle: |  |  |
+| 10 |  Лабораторная работа №6 | код: :red_circle: |  |  |
